@@ -1,0 +1,20 @@
+#countlabel{
+    font-size: 10em;
+    text-align: center;
+    display: block;
+}
+#btn{
+    text-align: center;
+    
+}
+.buttons{
+    color: aqua;
+    display:inline;
+    text-align:center;
+    border-radius: 5rem;
+    background-color: black;
+
+}
+.buttons:hover{
+    background-color: blueviolet;
+}
